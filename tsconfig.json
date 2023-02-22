@@ -4,5 +4,8 @@
     "strict": true,
     "target": "ES5",
     "module": "ES2015",
-  }
+    "moduleResolution": "node",
+    "allowJs": true,
+  },
+  "include": ["src"]
 }

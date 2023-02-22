@@ -1,0 +1,1 @@
+declare module "@puzzel/widget-api-lib"
